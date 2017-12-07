@@ -37,8 +37,8 @@ FLAGS = None
 max_steps = 5000
 learning_rate = 0.001
 dropout = 0.9
-data_dir = 'D:/python/tensorflow-1.1.0/tensorflow-1.1.0/tensorflow/examples/tutorials/mnist/input_data'
-log_dir = 'D:/python/tensorflow-1.1.0/tensorflow-1.1.0/tensorflow/examples/tutorials/mnist/logs/mnist_with_summaries'
+data_dir = 'D:/python/mnist/input_data'
+log_dir = 'D:/python/mnist/logs/mnist_with_summaries'
 
 
 def train():

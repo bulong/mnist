@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Sep  8 15:29:48 2016
+Created :  2017-8-27
 
-@author: root
+@author: bulong
+Mail:bulong_yaoyaole@qq.com
 """
 import tensorflow as tf 
 import tensorflow.examples.tutorials.mnist.input_data as input_data
